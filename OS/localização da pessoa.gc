@@ -1,0 +1,9 @@
+print(textEdit"NUMERO DA PESSOA")
+o_que_colocar = em( 
+textEdit
+
+)
+localizar_pessoa(
+gps_local-resultado
+
+)
