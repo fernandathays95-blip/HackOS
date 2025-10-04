@@ -1,0 +1,3 @@
+quando_escrever(hack_logo)
+hack-logo-ui-mostrar-logo.acii
+print(logo.acii)
