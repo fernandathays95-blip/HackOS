@@ -1,0 +1,10 @@
+carregar_arquivos(
+dentro> {da pasta"OS"}
+)
+loop(1s)
+loop(2s)
+loop(3s)
+
+print((carregando...))
+keyframes(1"...",2"..",3".")
+loop()
