@@ -4,4 +4,4 @@ dispositivos()
 live"loop()"
 print(vazar dados?)
 botão[não](não)
-botão[sim](executar:)
+botão[sim](executar:Vazamento de dados.gc)
